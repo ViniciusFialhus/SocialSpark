@@ -1,0 +1,92 @@
+.containerMain {
+  position: absolute;
+  top: 10%;
+  height: 80%;
+  width: 70%;
+}
+
+.containerMessage {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 100%;
+  color: var(--color-white);
+  margin-top: 10px;
+}
+
+.myMessages {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 100%;
+  width: 100%;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+
+.myMessages h1 {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 5px;
+  border-radius: var(--border-radius);
+  font-weight: 400;
+  font-size: var(--font-size);
+  font-family: var(--font-family-default);
+  background-color: var(--color-success);
+}
+
+.myMessages h6 {
+  font-size: var(--font-size-small);
+  font-weight: 40;
+  position: relative;
+  top: 12px;
+  right: 5px;
+}
+
+.myMessages .circle {
+  display: none;
+}
+
+.otherMessages {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100%;
+  width: 100%;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+
+.otherMessages h1 {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 5px;
+  border-radius: var(--border-radius);
+  font-weight: 400;
+  font-size: var(--font-size-small);
+  font-family: var(--font-family-default);
+  background-color: #272a2c;
+}
+
+.otherMessages h6 {
+  font-size: var(--font-size-small);
+  font-weight: 40;
+  position: relative;
+  top: 12px;
+  left: 5px;
+}
+
+.otherMessages .circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  margin-left: 15px;
+  border-radius: 50%;
+  margin-right: 10px;
+  transition: all 0.3s ease;
+}

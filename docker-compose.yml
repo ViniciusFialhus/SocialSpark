@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  frontend:
+    build:
+      context: ./socialspark-fe
+    ports:
+      - "3001:3001"
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: ./socialspark-be
+    ports:
+      - "3000:3000"
