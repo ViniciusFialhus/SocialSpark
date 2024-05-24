@@ -17,8 +17,8 @@ O projeto Social Sparck é um chat em tempo real com múltiplas instâncias, des
 ### Backend
 - Nest.js
 - Zustand
-- Jest (para testes)
-- Testing Library (para testes)
+- Jest 
+- Testing Library 
 - Socket.io
 
 ## Configuração do Ambiente
