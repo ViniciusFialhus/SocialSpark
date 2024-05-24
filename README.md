@@ -7,7 +7,7 @@
 ## Descrição
 O projeto Social Sparck é um chat em tempo real com múltiplas instâncias, desenvolvido para aprender o fluxo de trabalho de uma aplicação socket. 
 ## Paginas 
-![image](https://github.com/ViniciusFialhus/SocialSparck/assets/117598534/c81bb0fd-f171-406d-835b-2ad499123b51)
+![333689277-c81bb0fd-f171-406d-835b-2ad499123b51 (2)](https://github.com/ViniciusFialhus/SocialSpark/assets/117598534/9425d9cf-15ca-4636-88a9-e048dedd40ed)
 ## Tecnologias Utilizadas
 ### Frontend
 - Next.js
