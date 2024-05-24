@@ -1,13 +1,13 @@
 
-# Documentação do Projeto Social Sparck
+<div align="center">
+  <img src="https://github.com/ViniciusFialhus/SocialSparck/assets/117598534/d40953fd-7d48-4d58-a3b6-558096ec655f" alt="Imagem do Projeto" style="width:200px;">
+</div>
 
+# Documentação do Projeto Social Spark
 ## Descrição
-O projeto Social Sparck é um chat em tempo real com múltiplas instâncias, desenvolvido para aprender o fluxo de trabalho de uma aplicação socket. Ele consiste em duas partes principais: o frontend, localizado na pasta `socialSparck-Fe`, e o backend, localizado na pasta `socialSparck-Be`.
-
+O projeto Social Sparck é um chat em tempo real com múltiplas instâncias, desenvolvido para aprender o fluxo de trabalho de uma aplicação socket. 
 ## Paginas 
-![image](https://github.com/ViniciusFialhus/SocialSparck/assets/117598534/5ac291e9-7a4e-4bc4-8dbe-e37879bc85ac)
-
-
+![image](https://github.com/ViniciusFialhus/SocialSparck/assets/117598534/c81bb0fd-f171-406d-835b-2ad499123b51)
 ## Tecnologias Utilizadas
 ### Frontend
 - Next.js
